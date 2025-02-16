@@ -1,0 +1,129 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.raws{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.outer{
+    padding: 60px;
+}
+.all{
+    width: 360px;
+}
+a{
+    text-decoration: none;
+    color: #19341E;
+}
+p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p1{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.p2{
+    margin-top: 0cm;
+    margin-bottom: 7px;
+}
+.p3{
+    font-size: smaller;
+    font-weight: 500 ;
+    margin-top: 0cm;
+}
+.image1{
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/2f12340c-ce42-4e5f-b486-66d002b78e2f/TTC_6340.jpg?format=1000w);
+}
+.image1:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/a347b202-a1b2-4215-88df-06d9ac3b342c/TTC_6346.jpg?format=1000w);
+}
+.image2 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/dd089a72-2a6d-401c-a4a9-c33ff7b5cef8/TTC_6016.jpg?format=1000w);
+}
+.image2:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/8eb787c3-121b-4721-ad34-07fece2ec073/TTC_6003.jpg?format=1000w);
+}
+.image2 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/dd089a72-2a6d-401c-a4a9-c33ff7b5cef8/TTC_6016.jpg?format=1000w);
+}
+.image2:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/8eb787c3-121b-4721-ad34-07fece2ec073/TTC_6003.jpg?format=1000w);
+}
+.image3 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/2dc2ca5a-c107-4f7e-ac3b-412a2ae92bc8/TTC_6446.jpg?format=1000w);
+}
+.image3:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/9bdbfd3b-27ef-451b-85a1-e1a2efed25c5/TTC_6469.jpg?format=1000w);
+}
+.image4 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/e2075da4-feed-4b58-a222-ed7b133f97a3/IMG_9309_v2.jpg?format=1000w);
+}
+.image4:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/6e9e6607-006d-4ce7-9aaf-b643ebf430df/IMG_9357_2.jpg?format=1000w);
+}
+.image5 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/f2e42f6b-03f3-47f8-85ad-6a00c6a49117/Mini-Garden-Updates.jpg?format=1000w);
+}
+.image5:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/329cfb01-1b3e-4da8-b4f8-444dfa688582/Minigarden.jpg?format=1000w);
+}.image6 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1669107082662-YQJ4IL0JJ6CX1YKI3UR8/Workshop-BonsaiWiring-1b.jpg?format=1000w);
+}
+.image6:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1669812405732-XKCB78S3RW67GHE12Y47/IMG_2976.jpg?format=1000w);
+}
+.image7 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1718703365729-9Q9SRQU93W1ZQL84P5A0/IMG_6997-2.jpg?format=1000w);
+}
+.image7:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1718701453553-A2NB59YZ68LJ7P8NHAS0/IMG_7679.jpg?format=1000w);
+}.image8 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1690420873595-YB4I3GTGEV8LLBWUV0N9/IMG_2416.jpg?format=1000w);
+}
+.image8:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1690361165410-D3T7W0MERH2E6IKYBMMR/IMG_2449.jpg?format=1000w);
+}
+.image9 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1675504227411-MGSBJMJ5XW600L7FNKMY/IMG_5288-3.jpg?format=1000w);
+}
+.image9:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1675504443134-F6XEPC25CGD4940UXYY9/IMG_5299.jpg?format=1000w);
+}
+#-link{
+    font-size: 16px;
+    text-decoration: underline;
+}

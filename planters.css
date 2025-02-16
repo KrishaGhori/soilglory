@@ -1,0 +1,152 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+:root {
+    --lightAccent-hsl: 36, 100%, 97.06%; 
+  }
+  
+  body{
+    background-color: hsl(var(--lightAccent-hsl)); 
+  }
+   
+.raws{
+    display: flex;
+    justify-content: space-between;
+}
+.outer{
+    padding: 43px;
+}
+.all{
+    width: 360px;
+}
+a{
+    text-decoration: none;
+    color: #19341E;
+}
+p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p1{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.p2{
+    margin-top: 0cm;
+    margin-bottom: 7px;
+}
+.p3{
+    font-size: smaller;
+    font-weight: 500 ;
+    margin-top: 0cm;
+}
+.image1{
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705652523012-ME78TPJQ2U7E1IQOL91S/Bishop-Charcoal-S.jpg?format=1000w);
+}
+.image1:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705652517112-FIS6ES5F3AK0RSX43CQK/Bishop-Charcoal-S-side.jpg?format=1000w);
+}
+
+.image2 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705654099263-68N7950DAFHD0P3I79AN/Knight.jpg?format=1000w);
+}
+.image2:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705654130101-4UNDSVI4O66R6G4205G6/Knight-side.jpg?format=1000w);
+}
+.image3 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705633248291-6C8B2HVMRL17O3WOI0ZX/White-Duck-L.jpg?format=1000w);
+}
+.image3:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705633248282-BMBSTKYGNK4Z8W47NOQB/White-Duck-L-side.jpg?format=1000w);
+}
+.image4 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705632688683-TMVULSN0JBD5W4629CQC/White-Seal-S.jpg?format=1000w);
+}
+.image4:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705632688681-I3GOJ77Y2CMZXP2U3HSD/White-Seal-S-Side.jpg?format=1000w);
+}
+.image5 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705632319944-0UBWE4H57GEJMAELIO8K/Char-Duck-S_2.jpg?format=1000w);
+}
+.image5:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1705632319944-7OMCTZLZT3IAT8G8J3KE/Char-Duck-S_Side.jpg?format=1000w);
+}.image6 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1668598929189-Y1TGD3NB72YR65L2W0A0/Sprout-Moon-Pot%28new%29.jpg?format=1000w);
+}
+.image6:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1612093401962-H3UDJAHYPWTTOMA1H0DF/Sprout-Moon-Pot-Side.jpg?format=1000w);
+}
+.image7 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1634641353632-129HL94E2MV3E7R0GZ1H/Sprout-A-Grey-Ivory-L.jpg?format=1000w);
+}
+.image7:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1634641353384-6Y15WQMZHKTDHXOIEIZV/Sprout-A-L-Grey_Ivory.jpg?format=1000w);
+}
+.image8 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1632389940610-W013OL9BGZKUKAKYGG1H/Sprout-A-L-01.jpg?format=1000w);
+}
+.image8:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1612090710356-DS0FPPUYTY5D5XO3QRUB/Sprout-A-L-01_side.jpg?format=1000w);
+}
+.image9 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1612091783940-L0ALS2EJY9U1YZUTU4JR/Sprout-A-L-3.jpg?format=1000w);
+}
+.image9:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1612091787086-4D55XC7MUC5U65J5ZLF7/Sprout-A-L-03_side.jpg?format=1000w);
+}
+.image10 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1663902625219-M9P1U9HV3TC4Y44R3MBT/Bonsai-small.jpg?format=1000w);
+}
+.image10:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1663902625185-7HA7MA2AI0XHR7LATBC8/Bonsai-small-side.jpg?format=1000w);
+}
+.image11 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1669170669385-6NRK465EHCPDH52D3H2N/Botanize_Studs_Planter.jpg?format=1000w);
+}
+.image11:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1669170669154-LMQ4AGUIJTENYMN0ZRRL/Botanize_Studs_Planter_side.jpg?format=1000w);
+}
+.image12 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1619447370728-AJPTE55BRSB9CKAJ5EIF/Sprout-Mortar-Pot-S.jpg?format=1000w);
+}
+.image12:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1619447370544-VCAMCFHHLR7Y810QLHML/Sprout-Mortar-Pot-S-side.jpg?format=1000w);
+}

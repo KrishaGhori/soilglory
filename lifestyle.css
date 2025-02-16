@@ -1,0 +1,153 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+:root {
+    --lightAccent-hsl: 36, 100%, 97.06%; 
+  }
+  
+  body{
+    background-color: hsl(var(--lightAccent-hsl)); 
+  }
+   
+.raws{
+    display: flex;
+    justify-content: space-between;
+}
+.outer{
+    padding: 43px;
+}
+.all{
+    width: 360px;
+}
+a{
+    text-decoration: none;
+    color: #19341E;
+}
+p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p1{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.p2{
+    margin-top: 0cm;
+    margin-bottom: 7px;
+}
+.p3{
+    font-size: smaller;
+    font-weight: 500 ;
+    margin-top: 0cm;
+}
+.image1{
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/51dee355-a072-40e4-8621-c61ec987e103/Semi-circle-01.jpg?format=1000w);
+}
+.image1:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/e0e61ec0-de8d-47ef-9e93-f0f9eeb98c3e/Semi-circle-02.jpg?format=1000w);
+}
+
+.image2 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/d7fb0059-ad83-497f-90f0-37b77eede39c/Square-1.jpg?format=1000w);
+}
+.image2:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/34c43572-d091-4148-9852-62fd1f0a0c73/Square-2.jpg?format=1000w);
+}
+.image3 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/3539020f-e4ed-455b-b9a6-e3ad5928ecf2/Oval-1.jpg?format=1000w);
+}
+.image3:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/0b7a4386-f62e-416f-92a3-276c1b7c5718/Oval-2.jpg?format=1000w);
+}
+.image4 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1699700903615-WOWIR7TYFW38HDTOUA8K/IMG_7110.jpg?format=1000w);
+}
+.image4:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1699700988297-5JR9E01GTUIFB6QUCXB6/IMG_7255.jpg?format=1000w);
+}
+.image5 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1699700550115-U5EX39PCC9EBZ6XB2V5B/Mini-pp-02.jpg?format=1000w);
+}
+.image5:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1699700551752-RX93RZ01PDYBAGTR4JGG/Mini-pp-03.jpg?format=1000w);
+}.image6 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1702374824033-4CVWLI1LUQHZ2ORFJ7DW/Marble-Pebbles.jpg?format=1000w);
+}
+.image6:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1702374824027-PW93XENPMQH17218VNB4/Marble-Pebbles-side.jpg?format=1000w);
+}
+.image7 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1702374913837-P8FWPM97Y7466YXPS8J7/Cream-Pebbles.jpg?format=1000w);
+}
+.image7:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1702374913824-2717P8DK448KS9XGWG32/Cream-Pebbles-side.jpg?format=1000w);
+}
+.image8 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1671015361929-CADNBHW65WRAYLEZ032G/SB-x-ATOS.jpg?format=1000w);
+}
+.image8:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1671015363179-W8Q667V1EXCB6Q8SXFR3/SB-x-ATOS-v2.jpg?format=1000w);
+}
+.image9 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673626124445-P04M42A1GP9YHJR22K2O/OaknBindi2-CambroTray-Product.jpg?format=1000w);
+}
+.image9:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673347112468-3W79K0D8HCO5HIIM7SLC/OaknBindi2-Cambro1.jpg?format=1000w);
+}
+.image10 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673344005997-O85443K20RBVKMXKX2CQ/OaknBindi2-Nalgene-ProductFront.jpg?format=1000w);
+}
+.image10:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673344005997-OUP8AB4PLKILAXAEQH9Q/OaknBindi2-Nalgene-ProductBack.jpg?format=1000w);
+}
+.image11 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673336336782-G8VX8LE12PG0AP099FWB/Sb+X+Oakandbindi+Fairies+Origin+Front.jpg?format=1000w);
+}
+.image11:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673336336964-CDKLV5MV7DZOZFLEPE0O/Sb+X+Oakandbindi+Fairies+Origin+Back.jpg?format=1000w);
+}
+.image12 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673625740608-E1GZVWD90UITF5XFRPN3/Slower-Crate-Tabletop.jpg?format=1000w);
+}
+.image12:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1673625846410-ZILGJNS974HEU4D33XF1/DSC05694-2.jpg?format=1000w);
+}
+

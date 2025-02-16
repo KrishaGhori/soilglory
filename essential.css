@@ -1,0 +1,98 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+:root {
+    --lightAccent-hsl: 36, 100%, 97.06%; 
+  }
+  
+  body{
+    background-color: hsl(var(--lightAccent-hsl)); 
+  }
+   
+.raws{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.all{
+    width: 360px;
+}
+a{
+    text-decoration: none;
+    color: #19341E;
+}
+p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p1{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.p2{
+    margin-top: 0cm;
+    margin-bottom: 7px;
+}
+.p3{
+    font-size: smaller;
+    font-weight: 500 ;
+    margin-top: 0cm;
+}
+.image1{
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1622036137586-7AB0RPUCX6CIG04T76IW/50-giftcard_v1.jpg?format=1000w);
+}
+.image1:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1622036137810-1ARB6WW86T39MY6VD1KW/100-giftcard_v1.jpg?format=1000w);
+}
+
+.image2 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608547972091-YZB77OD5S5E4KPH41QDM/SB_Airy_Soil.jpg?format=1000w);
+}
+.image2:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608553358105-PKTRFPS9URFU4X2PTSN5/SB_airy_Soil_closeup.jpg?format=1000w);
+}
+.image3 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608547934576-159MK32TF48QUJUYMEAK/SB_Basic_Soil.jpg?format=1000w);
+}
+.image3:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608553397076-811KOSO63LI1NLOF4ZIO/SB_Basic_Soil_closeup.jpg?format=1000w);
+}
+.image4 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608548983913-8005EX7SKD51B0DB8QP4/SB_Chunky_Soil.jpg?format=1000w);
+}
+.image4:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608553327955-YE9IB6BXGN6KIAUWACOU/SB_Chunky_Soil_closeup.jpg?format=1000w);
+}
+.image5 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608548219131-AEECMA23VHJUROLTNJ8I/SB_Gritty_Soil.jpg?format=1000w);
+}
+.image5:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608553305573-OGMEPX5OAOU5KLEP14YG/SB_Gritty_Soil_closeup.jpg?format=1000w);
+}
+.image6 {
+    height: 500px;
+    width: 360px;
+    background-size: cover;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608547972091-YZB77OD5S5E4KPH41QDM/SB_Airy_Soil.jpg?format=1000w);
+}
+.image6:hover{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5f6effe2de91535318dd74a3/1608553358105-PKTRFPS9URFU4X2PTSN5/SB_airy_Soil_closeup.jpg?format=1000w);
+}
